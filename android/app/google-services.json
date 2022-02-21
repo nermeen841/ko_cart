@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "842834705290",
+    "project_id": "kocart-9abe7",
+    "storage_bucket": "kocart-9abe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842834705290:android:fcaf2b4838b6858220e673",
+        "android_client_info": {
+          "package_name": "come.eres.ko_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842834705290-uji17guis3e5jjljs3gncquk081ir4dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "come.eres.ko_cart",
+            "certificate_hash": "6c40adb47bb021f5159b634c3761c693ebf69f59"
+          }
+        },
+        {
+          "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJbnEtFsaeAAscohFn71Nf_RK-pwgRcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842834705290-9jcc425ssk9ls1ldv6g6827cv59jsubc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluezoneKW.KoCart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842834705290:android:78b6f238f71f771d20e673",
+        "android_client_info": {
+          "package_name": "hamza.bluezone.kocart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842834705290-16129vmc4h38sf0qok824d9n5c48u0g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hamza.bluezone.kocart",
+            "certificate_hash": "f2592ebd89c8893da934603802c247d49b45d119"
+          }
+        },
+        {
+          "client_id": "842834705290-30qkhej9jc5llcnncu312gk2npce4n20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hamza.bluezone.kocart",
+            "certificate_hash": "7b64cc6e630119010d3c2b23f0e705bfecf89e57"
+          }
+        },
+        {
+          "client_id": "842834705290-6t2ajdrvfaip1u02814u7qgovqd0b2m7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hamza.bluezone.kocart",
+            "certificate_hash": "6c40adb47bb021f5159b634c3761c693ebf69f59"
+          }
+        },
+        {
+          "client_id": "842834705290-qg8rjc72rb1lajo2n7bd74vmdosr2506.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hamza.bluezone.kocart",
+            "certificate_hash": "9bef4fe9b78b8dff4dd66c5916da33d4f727776d"
+          }
+        },
+        {
+          "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJbnEtFsaeAAscohFn71Nf_RK-pwgRcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842834705290-9jcc425ssk9ls1ldv6g6827cv59jsubc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluezoneKW.KoCart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842834705290:android:305c3671e13b206620e673",
+        "android_client_info": {
+          "package_name": "hamza.kocart.kocart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842834705290-e9fti0c1n3s0j3usrv1uk0e2841os0ru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hamza.kocart.kocart",
+            "certificate_hash": "7b64cc6e630119010d3c2b23f0e705bfecf89e57"
+          }
+        },
+        {
+          "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdJbnEtFsaeAAscohFn71Nf_RK-pwgRcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842834705290-r53c44838m0eepfon3nntdat7eb3eo7d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842834705290-9jcc425ssk9ls1ldv6g6827cv59jsubc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluezoneKW.KoCart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
